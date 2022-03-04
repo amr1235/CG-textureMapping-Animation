@@ -1,4 +1,4 @@
-# Texture Mapping, Object Loading and Animation
+# Computer Graphics texture mapping and animation Using OpenGL
 * ## We have used three different Floors (wood, sand, green land)
 * ## We applied lightening using Distant light source and point light source
 * ## We choose the types of floor, by right click the mouse, from the below menu
